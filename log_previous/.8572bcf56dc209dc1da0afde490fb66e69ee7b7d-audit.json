@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\effanga21537\\Desktop\\React_NodeJS_Projects\\creche_backend\\logs\\.8572bcf56dc209dc1da0afde490fb66e69ee7b7d-audit.json",
+    "files": [
+        {
+            "date": 1725918191357,
+            "name": "C:\\Users\\effanga21537\\Desktop\\React_NodeJS_Projects\\creche_backend\\logs\\server-2024-09-09.log",
+            "hash": "8cb3396869ad3902260979ec4bceb6b8476431ad5f2424b4f08b3f895cb58177"
+        }
+    ],
+    "hashType": "sha256"
+}

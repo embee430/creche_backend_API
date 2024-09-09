@@ -1,0 +1,5 @@
+{"level":"info","message":"Server is running on port 5001","timestamp":"2024-09-09T21:43:11.719Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2024-09-09T21:43:12.009Z"}
+{"level":"info","message":"Database tables created or updated.","timestamp":"2024-09-09T21:43:12.052Z"}
+{"level":"info","message":"Incoming request: GET /api/users","timestamp":"2024-09-09T21:43:23.955Z"}
+{"level":"info","message":"Response: 304 Not Modified - 126ms","timestamp":"2024-09-09T21:43:24.081Z"}
